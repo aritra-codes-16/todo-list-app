@@ -35,6 +35,10 @@ A responsive To-Do List application built using React.js and JavaScript.
 
 5. Open the local URL displayed in the terminal.
 
+## Application Screenshot
+
+![Task Manager Screenshot](screenshots/todo-app.png)
+
 ## Author
 
 Aritra Ghosal
